@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ldj",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -32,6 +32,6 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jquery": "^3.4.1",
-    "swiper": "^5.3.6"
+    "swiper": "^5.3.1"
   }
 }
